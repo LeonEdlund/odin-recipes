@@ -24,6 +24,7 @@
 ul,
 ol {
     display: table;
-    margin: 0 auto;
+    width: 30%;
+    margin: auto;
 }
 
