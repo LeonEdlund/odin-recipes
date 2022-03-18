@@ -17,14 +17,12 @@
 
 .descriptions,
 .sub-title,
-.container {
+.container,
+.list {
     text-align: center;
 }
 
-ul,
-ol {
-    display: table;
-    width: 30%;
-    margin: auto;
+body {
+    padding-top: 20px;
+    padding-bottom: 150px;
 }
-
